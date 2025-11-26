@@ -1,5 +1,5 @@
 ## Hi, I'm Shubham
-I'm currently learning React and Redux Toolkit, and exploring full stack development 🚀.
+I'm currently learning React and exploring full stack development 🚀.
 <!--
 **shubhamqx/shubhamqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
